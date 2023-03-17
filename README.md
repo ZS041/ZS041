@@ -2,7 +2,7 @@
     
 
 <div>
-<strong>About Me:</strong><br>
+<strong>About Me:</strong><br><br>
     
 💻 I’m currently doing a few different projects to improve my React skills, including NextJS. <br>
 📚 I’m a final year Software Engineering student at Western Governor's University.<br>
