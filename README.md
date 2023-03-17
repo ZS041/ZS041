@@ -9,8 +9,8 @@
 📚 I have experience with Java, JavaScript, HTML, CSS, SQL, and a few libraries/frameworks including React/NextJS.<br>
 
 📫 Reach me at <a href="mailto:zaksmith04@gmail.com">zaksmith04@gmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/zsmith04">Linkedin</a><br><br><br>
-
+😄 Find me on <a href="https://www.linkedin.com/in/zsmith04">Linkedin</a><br>
+🌐 Visit my <a href="https://www.zsmith.dev">Portfolio Site</a><br><br><br>
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZS041&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZS041&theme=radical&hide_border=true"/><br><br>
