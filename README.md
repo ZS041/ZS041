@@ -3,10 +3,10 @@
 
 <div>
 <strong>About Me:</strong><br>
- 
+    
 💻 I’m currently doing a few different projects to learn React/NextJS. 
-📚 I’m a final year Software Engineering student at Western Governor's University<br>
-
+📚 I’m a final year Software Engineering student at Western Governor's University.<br>
+📚 I have experience with Java, JavaScript, HTML, CSS, SQL, and a few libraries/frameworks including React/NextJS.
 
 📫 Reach me at <a href="mailto:zaksmith04@gmail.com">zaksmith04@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/zsmith04">Linkedin</a><br><br><br>
