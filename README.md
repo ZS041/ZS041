@@ -16,7 +16,8 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZS041&theme=radical&hide_border=true"/><br><br>
 
 <strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-Java-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-Javascript-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
