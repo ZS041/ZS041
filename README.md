@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZS041&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Project :</strong><br><br>
-[![Dungeon Crawler](https://github-readme-stats.vercel.app/api/pin/?username=ZS041&repo=dungeonscroller&theme=radical)](https://github.com/ZS041/dungeonscroller)
+[![Emojional](https://github-readme-stats.vercel.app/api/pin/?username=ZS041&repo=emojional&theme=radical)](https://github.com/ZS041/emojional)
 </div>
 
 ------
