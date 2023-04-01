@@ -6,7 +6,7 @@
     
 💻 I’m currently working on a few different projects to improve my React and Next.js skills. <br>
 📚 I’m a final year Software Engineering student at Western Governor's University.<br>
-📚 I have experience with Java, JavaScript, HTML, CSS, and SQL, as well as a variety of libraries and frameworks. <br>
+📚 I have experience with Java, JavaScript, Typescript, HTML, CSS, and SQL, as well as a variety of libraries and frameworks. <br>
 
 📫 Reach me at <a href="mailto:zaksmith04@gmail.com">zaksmith04@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/zsmith04">Linkedin</a><br>
